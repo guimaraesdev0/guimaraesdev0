@@ -8,3 +8,5 @@
 - 🌎 Brazil/Sao_Paulo
 - 📚 Systems development
 - 🏫 SENAI-SP
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuimaSpace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
