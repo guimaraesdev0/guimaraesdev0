@@ -11,12 +11,15 @@ I am a student of Systems Development at Senai São Paulo, currently living in S
 
 ## 🛠️ Skills & Tools
 
+![MySql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![NodeJs](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![ReactNative](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
 ![API REST](https://img.shields.io/badge/-API%20REST-333333?style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
