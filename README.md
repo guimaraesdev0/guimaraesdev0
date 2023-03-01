@@ -26,5 +26,5 @@ I am a student of Systems Development at Senai São Paulo, currently living in S
 
 ## 🔍 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/vinicius-guimar%C3%A3es-108483243/)
-- Email: viniciusguimaraescarneiro@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-guimar%C3%A3es-108483243/)](https://www.linkedin.com/in/vinicius-guimar%C3%A3es-108483243/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusguimaraescarneiro@gmail.com)](mailto:viniciusguimaraescarneiro@gmail.com)
