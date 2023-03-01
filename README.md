@@ -27,6 +27,12 @@ My name is Vinicius Guimaraes, I am 16 years old and a student of Systems Develo
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
+## 🔭 Currently Learning
+
+- Next.Js
+- Typescript
+- Tailwind
+
 ## 🔍 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-guimar%C3%A3es-108483243/)](https://www.linkedin.com/in/vinicius-guimar%C3%A3es-108483243/)
