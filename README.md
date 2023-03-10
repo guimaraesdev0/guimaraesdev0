@@ -6,21 +6,8 @@ My name is Vinicius Guimaraes, I am 16 years old and a student of Systems Develo
 
 ## 🛠️ Skills & Tools
 
-![MySql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
-![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
-![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![NodeJs](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![ReactNative](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
-![API REST](https://img.shields.io/badge/-API%20REST-333333?style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
+
 
 ## 🚀 Currently Practicing
 
