@@ -15,7 +15,7 @@ My name is Vinicius Guimaraes, I am 16 years old and a student of Systems Develo
 - Api Rest
 - Next.Js
 - Typescript
-- Tailwind
+- Socket.io
 
 ## 🔍 Contact Me
 
