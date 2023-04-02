@@ -9,8 +9,7 @@ My name is Vinicius Guimaraes, I am 16 years old and a student of Systems Develo
 
 ## 🚀 Currently Practicing
 
-- Api Rest
-- Next.Js
+- Nest
 - Typescript
 - Socket.io
 
