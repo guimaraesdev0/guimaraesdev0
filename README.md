@@ -1,4 +1,4 @@
-# Vinicius Guimaraes
+# Vinicius Guimaraes Carneiro
 
 👋 About Me
 
