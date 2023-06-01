@@ -7,11 +7,9 @@ My name is Vinicius Guimaraes, I am 17 years old and a student of Systems Develo
 ## 🛠️ Main skills & tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50" />
 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuimaSpace&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔍 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-guimar%C3%A3es-108483243/)](https://www.linkedin.com/in/vinicius-guimar%C3%A3es-108483243/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=dark&link=https://www.linkedin.com/in/vinicius-guimar%C3%A3es-108483243/)](https://www.linkedin.com/in/vinicius-guimar%C3%A3es-108483243/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusguimaraescarneiro@gmail.com)](mailto:viniciusguimaraescarneiro@gmail.com)
