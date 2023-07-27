@@ -9,8 +9,8 @@ My name is Vinicius Guimaraes, I am 17 years old and I recently completed my stu
 
 
 
-[![TopLangs-DarkMode](https://github-readme-stats.vercel.app/api/top-langs?username=GuimaSpace&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![TopLangs-WhiteMode](https://github-readme-stats.vercel.app/api/top-langs?username=GuimaSpace&layout=compact&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![TopLangs-DarkMode](https://github-readme-stats.vercel.app/api/top-langs?username=guimaraesdev0&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![TopLangs-WhiteMode](https://github-readme-stats.vercel.app/api/top-langs?username=guimaraesdev0&layout=compact&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 ## 🔍 Contact Me
