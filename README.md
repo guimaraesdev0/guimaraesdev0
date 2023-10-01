@@ -13,4 +13,4 @@ My name is Vinicius Guimaraes, I am 17 years old and I recently completed my stu
 ## 🔍 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=dark&link=https://www.linkedin.com/in/vinicius-guimar%C3%A3es-108483243/)](https://www.linkedin.com/in/vinicius-guimar%C3%A3es-108483243/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusguimaraescarneiro@gmail.com)](mailto:viniciusguimaraescarneiro@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusguimaraescarneiro@gmail.com)](mailto:guimaraesdev013@gmail.com)
