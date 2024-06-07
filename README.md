@@ -1,10 +1,2 @@
-# Vinicius Guimaraes Carneiro
-
-👋 About Me
-
-My name is Vinicius Guimaraes, I am 18 years old and I recently completed my studies in Systems Development at Senai São Paulo. I currently reside in São Paulo, Brazil, and have had a passion for technology since I was a child. I dedicate hours every day to studying programming and constantly looking for opportunities to learn and enhance my skills.
-
-## 🛠️ Main skills & tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs)](https://skillicons.dev)
-## 🔍 Contact Me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusguimaraescarneiro@gmail.com)](mailto:guimaraesdev013@gmail.com)
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8');]{x0000}$}
