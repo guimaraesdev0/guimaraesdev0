@@ -1,2 +1,7 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/09/GettyImages-1668971338-e1694439970587.jpg?w=1220&h=674&crop=1');]{x0000}$}
+
+👋 About Me
+
+My name is Vinicius Guimaraes, I am 18 years old and I recently completed my studies in Systems Development at Senai São Paulo. I currently reside in São Paulo, Brazil, and have had a passion for technology since I was a child. I dedicate hours every day to studying programming and constantly looking for opportunities to learn and enhance my skills.
+
+## 🛠️ Main skills & tools
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs)](https://skillicons.dev)
